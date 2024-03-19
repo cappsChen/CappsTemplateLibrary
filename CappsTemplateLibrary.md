@@ -93,7 +93,9 @@
     + [ClosestPair](#closestpair)
     + [DelaunayTriangulation](#delaunaytriangulation)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 
 <a name="a6i3b"></a>
 
