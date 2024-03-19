@@ -224,7 +224,7 @@ Comb<int, P> comb;
 <a name="8b9b9392"></a>
 ## Polynomial
 <a name="8e8de95a"></a>
-### **FastFourierTransform**
+### FastFourierTransform
 ```cpp
 #define x first
 #define y second
